@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Patch>
-
+  <!-- Ideology currently does not treat fishing as "killing innocent animals".
+       If it does in the future this patch will make the new work type be treated the same. -->
   <!-- <Operation  Class="PatchOperationAdd" MayRequire="Ludeon.Rimworld.Ideology">
     <xpath>/Defs/PreceptDef[defName="KillingInnocentAnimals_Abhorrent"]/opposedWorkTypes</xpath>
     <value>
