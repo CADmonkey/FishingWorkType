@@ -9,7 +9,6 @@
     <description>Fish in designated fishing spots.</description>
     <verb>Fish</verb>
     <naturalPriority>930</naturalPriority>
-    <disabledForSlaves>true</disabledForSlaves>
     <relevantSkills>
       <li>Animals</li>
     </relevantSkills>
