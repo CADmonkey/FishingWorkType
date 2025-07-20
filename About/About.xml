@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Fishing Work Type</name>
+  <author>CADMonkey</author>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <packageId>CADMonkey.FishingWorkType</packageId>
+  <description>Simple mod to add a Fishing work type in addition to Hunting that can be configured seperately.</description>
+  <modDependencies>
+    <li>
+      <packageId>Ludeon.RimWorld.Odyssey</packageId>
+      <displayName>Odyssey</displayName>
+    </li>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+      <downloadUrl>github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+    <li>Ludeon.RimWorld.Odyssey</li>
+    <li>brrainz.harmony</li>
+  </loadAfter>
+</ModMetaData>

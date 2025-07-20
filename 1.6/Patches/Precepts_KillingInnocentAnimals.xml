@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+  <!-- <Operation  Class="PatchOperationAdd" MayRequire="Ludeon.Rimworld.Ideology">
+    <xpath>/Defs/PreceptDef[defName="KillingInnocentAnimals_Abhorrent"]/opposedWorkTypes</xpath>
+    <value>
+      <li>Fishing</li>
+    </value>
+  </Operation>
+  <Operation  Class="PatchOperationAdd" MayRequire="Ludeon.Rimworld.Ideology">
+    <xpath>/Defs/PreceptDef[defName="KillingInnocentAnimals_Disapproved"]/opposedWorkTypes</xpath>
+    <value>
+      <li>Fishing</li>
+    </value>
+  </Operation>
+  <Operation  Class="PatchOperationAdd" MayRequire="Ludeon.Rimworld.Ideology">
+    <xpath>/Defs/PreceptDef[defName="KillingInnocentAnimals_Horrible"]/opposedWorkTypes</xpath>
+    <value>
+      <li>Fishing</li>
+    </value>
+  </Operation> -->
+
+</Patch>
