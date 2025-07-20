@@ -7,5 +7,11 @@
       <workType>Fishing</workType>
     </value>
   </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/WorkTypeDef[defName="Hunting"]/description</xpath>
+    <value>
+     <description>Kill animals which are designated to be hunted.</description>
+    </value>
+  </Operation>
 
 </Patch>

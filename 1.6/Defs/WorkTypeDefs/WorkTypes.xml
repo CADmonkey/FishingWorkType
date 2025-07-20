@@ -4,7 +4,7 @@
 <WorkTypeDef>
     <defName>Fishing</defName>
     <labelShort>fish</labelShort>
-    <pawnLabel>fishing</pawnLabel>
+    <pawnLabel>Angler</pawnLabel>
     <gerundLabel>fishing</gerundLabel>
     <description>Fish in designated fishing spots.</description>
     <verb>Fish</verb>
